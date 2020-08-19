@@ -8,7 +8,7 @@ import com.bumptech.glide.request.RequestOptions
 import com.lishuaihua.banner.loader.ImageLoader
 
 class GlideRoundImageLoader : ImageLoader() {
-    
+
     override fun displayImage(context: Context?, path: Any?, imageView: ImageView) {
 
         /**
