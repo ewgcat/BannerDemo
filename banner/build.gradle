@@ -1,6 +1,5 @@
 apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
-apply from: rootProject.file("bintray.gradle")
 android {
     compileSdkVersion 30
     buildToolsVersion "30.0.2"
